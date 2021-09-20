@@ -1,5 +1,5 @@
 # Finite Element Human Body Model-based Injury Prediction using Machine Learning
-Repositry documenting the work for the master's thesis conducted by *[Yash Niranjan Poojary](https://github.com/yash-n-p) and [Akhil Srinivas](https://github.com/akhil8794)*. This thesis was completed in july 2021.
+Repositry documenting the work for the master's thesis conducted by *[Yash Niranjan Poojary](https://github.com/yash-n-p) and [Akhil Srinivas](https://github.com/akhil-srinivas)*. This thesis was completed in july 2021.
 
 The contents and results of the thesis are published in [Chalmers ODR](https://odr.chalmers.se/handle/20.500.12380/303774).
 
