@@ -3,7 +3,7 @@ Repositry documenting the work for the master's thesis conducted by *[Yash Niran
 
 The contents and results of the thesis are published in [Chalmers ODR](https://odr.chalmers.se/handle/20.500.12380/303774).
 
-Part of this project is also packaged in a python library available for public ise called [`dynakit`](https://pypi.org/project/dynakit/)
+Part of this project is also packaged in a python library available for public called [`dynakit`](https://pypi.org/project/dynakit/)
 
 # Thesis abstract
 Models of the human body, both physical and virtual, have been vital tools for the design of safer vehicles. Finite element models of the human body are now becoming widely used for evaluating safety systems. With the introduction of future designs like autonomous vehicles that affect the nature of vehicle crashes, HBM will become a necessary tool to assess safety. Detailed human anatomy representation in HBM, however, makes it computationally expensive and consumes a lot of time to simulate crash scenarios. The aim of this thesis was to evaluate machine learning models as computationally inexpensive surrogates for injury metrics from human body models. 
